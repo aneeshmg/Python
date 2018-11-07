@@ -1,0 +1,134 @@
+With size of output layer of f() = 100 & hidden layer of g() = 100
+
+Iteration: 1000  Loss: 1.431961026233971  Accuracy: 0 %
+Iteration: 2000  Loss: 1.4319543167155493  Accuracy: 0 %
+Iteration: 3000  Loss: 1.4319641520601818  Accuracy: 0 %
+Iteration: 4000  Loss: 1.4319510451235216  Accuracy: 0 %
+Iteration: 5000  Loss: 1.4319475803086732  Accuracy: 0 %
+Iteration: 6000  Loss: 1.431951137736468  Accuracy: 0 %
+Iteration: 7000  Loss: 1.4319499526192174  Accuracy: 0 %
+Iteration: 8000  Loss: 1.4319575399585074  Accuracy: 0 %
+Iteration: 9000  Loss: 1.4319515628560606  Accuracy: 0 %
+Iteration: 10000  Loss: 1.4319470462922868  Accuracy: 0 %
+Iteration: 11000  Loss: 1.4319490805466804  Accuracy: 0 %
+Iteration: 12000  Loss: 1.4319467140469335  Accuracy: 0 %
+Iteration: 13000  Loss: 1.431957391237319  Accuracy: 0 %
+Iteration: 14000  Loss: 1.431947769377725  Accuracy: 0 %
+Iteration: 15000  Loss: 1.4319460215451951  Accuracy: 0 %
+Iteration: 16000  Loss: 1.4319488374786264  Accuracy: 0 %
+Iteration: 17000  Loss: 1.4319486833799169  Accuracy: 0 %
+Iteration: 18000  Loss: 1.4319524576081253  Accuracy: 0 %
+Iteration: 19000  Loss: 1.4319488685203519  Accuracy: 0 %
+Iteration: 20000  Loss: 1.4319465289719615  Accuracy: 0 %
+Iteration: 21000  Loss: 1.4319472237066324  Accuracy: 0 %
+Iteration: 22000  Loss: 1.4319460301620128  Accuracy: 0 %
+Iteration: 23000  Loss: 1.4319544996808207  Accuracy: 0 %
+Iteration: 24000  Loss: 1.4319470415638111  Accuracy: 0 %
+Iteration: 25000  Loss: 1.4319457685591248  Accuracy: 0 %
+Iteration: 26000  Loss: 1.4319481949944466  Accuracy: 0 %
+Iteration: 27000  Loss: 1.4319480132396563  Accuracy: 0 %
+Iteration: 28000  Loss: 1.4319505004008102  Accuracy: 0 %
+Iteration: 29000  Loss: 1.4319479097049301  Accuracy: 0 %
+Iteration: 30000  Loss: 1.431946259417643  Accuracy: 0 %
+
+
+With size of output layer of f() = 300 & hidden layer of g() = 100
+
+Iteration: 1000  Loss: 1.431978069754628  Accuracy: 0 %
+Iteration: 2000  Loss: 1.4319473664404205  Accuracy: 0 %
+Iteration: 3000  Loss: 1.4319697917473466  Accuracy: 0 %
+Iteration: 4000  Loss: 1.4319482256863372  Accuracy: 0 %
+Iteration: 5000  Loss: 1.4319475561414852  Accuracy: 0 %
+Iteration: 6000  Loss: 1.4319668528811933  Accuracy: 0 %
+Iteration: 7000  Loss: 1.4319466963554046  Accuracy: 0 %
+Iteration: 8000  Loss: 1.43195254404071  Accuracy: 0 %
+Iteration: 9000  Loss: 1.4319496397541371  Accuracy: 0 %
+Iteration: 10000  Loss: 1.4319494518061533  Accuracy: 0 %
+Iteration: 11000  Loss: 1.431959425305838  Accuracy: 0 %
+Iteration: 12000  Loss: 1.4319462073099751  Accuracy: 0 %
+Iteration: 13000  Loss: 1.4319620156844313  Accuracy: 0 %
+Iteration: 14000  Loss: 1.4319469160721405  Accuracy: 0 %
+Iteration: 15000  Loss: 1.4319465849441197  Accuracy: 0 %
+Iteration: 16000  Loss: 1.4319598918655423  Accuracy: 0 %
+Iteration: 17000  Loss: 1.431945888663848  Accuracy: 0 %
+Iteration: 18000  Loss: 1.431950766790811  Accuracy: 0 %
+Iteration: 19000  Loss: 1.4319485301459656  Accuracy: 0 %
+Iteration: 20000  Loss: 1.4319479633833254  Accuracy: 0 %
+Iteration: 21000  Loss: 1.4319573544050976  Accuracy: 0 %
+Iteration: 22000  Loss: 1.4319458858170824  Accuracy: 0 %
+Iteration: 23000  Loss: 1.4319587174749797  Accuracy: 0 %
+Iteration: 24000  Loss: 1.4319468700832143  Accuracy: 0 %
+Iteration: 25000  Loss: 1.4319463837703539  Accuracy: 0 %
+Iteration: 26000  Loss: 1.4319564305138022  Accuracy: 0 %
+Iteration: 27000  Loss: 1.4319458075202625  Accuracy: 0 %
+Iteration: 28000  Loss: 1.4319504236025349  Accuracy: 0 %
+Iteration: 29000  Loss: 1.4319480890829082  Accuracy: 0 %
+Iteration: 30000  Loss: 1.4319472350440814  Accuracy: 0 %
+
+
+With size of output layer of f() = 100 & hidden layer of g() = 50
+
+Iteration: 1000  Loss: 1.4319812237186984  Accuracy: 0 %
+Iteration: 2000  Loss: 1.4319513639217816  Accuracy: 0 %
+Iteration: 3000  Loss: 1.4319624807580402  Accuracy: 0 %
+Iteration: 4000  Loss: 1.4319500210695926  Accuracy: 0 %
+Iteration: 5000  Loss: 1.4319495215671256  Accuracy: 0 %
+Iteration: 6000  Loss: 1.4319766452442666  Accuracy: 0 %
+Iteration: 7000  Loss: 1.4319469408994618  Accuracy: 0 %
+Iteration: 8000  Loss: 1.4319517879758121  Accuracy: 0 %
+Iteration: 9000  Loss: 1.4319523633643239  Accuracy: 0 %
+Iteration: 10000  Loss: 1.431946461242738  Accuracy: 0 %
+Iteration: 11000  Loss: 1.4319636573264372  Accuracy: 0 %
+Iteration: 12000  Loss: 1.4319476996169505  Accuracy: 0 %
+Iteration: 13000  Loss: 1.4319508680209094  Accuracy: 0 %
+Iteration: 14000  Loss: 1.4319476541332636  Accuracy: 0 %
+Iteration: 15000  Loss: 1.4319473261337583  Accuracy: 0 %
+Iteration: 16000  Loss: 1.4319640241670346  Accuracy: 0 %
+Iteration: 17000  Loss: 1.431946304074819  Accuracy: 0 %
+Iteration: 18000  Loss: 1.4319495326772596  Accuracy: 0 %
+Iteration: 19000  Loss: 1.4319502774474646  Accuracy: 0 %
+Iteration: 20000  Loss: 1.4319460339536698  Accuracy: 0 %
+Iteration: 21000  Loss: 1.4319566940560713  Accuracy: 0 %
+Iteration: 22000  Loss: 1.4319466704801966  Accuracy: 0 %
+Iteration: 23000  Loss: 1.431948680602575  Accuracy: 0 %
+Iteration: 24000  Loss: 1.431947100101399  Accuracy: 0 %
+Iteration: 25000  Loss: 1.431946614178321  Accuracy: 0 %
+Iteration: 26000  Loss: 1.4319591255144104  Accuracy: 0 %
+Iteration: 27000  Loss: 1.4319460564607713  Accuracy: 0 %
+Iteration: 28000  Loss: 1.431948680724773  Accuracy: 0 %
+Iteration: 29000  Loss: 1.431949447785839  Accuracy: 0 %
+Iteration: 30000  Loss: 1.4319459898374538  Accuracy: 0 %
+
+
+With size of output layer of f() = 300 & hidden layer of g() = 50
+
+Iteration: 1000  Loss: 1.4320118969724702  Accuracy: 0 %
+Iteration: 2000  Loss: 1.4319488060493064  Accuracy: 0 %
+Iteration: 3000  Loss: 1.4319589879641181  Accuracy: 0 %
+Iteration: 4000  Loss: 1.4319557891285273  Accuracy: 0 %
+Iteration: 5000  Loss: 1.431948986355994  Accuracy: 0 %
+Iteration: 6000  Loss: 1.4319501577870215  Accuracy: 0 %
+Iteration: 7000  Loss: 1.431948171916662  Accuracy: 0 %
+Iteration: 8000  Loss: 1.4319643480522672  Accuracy: 0 %
+Iteration: 9000  Loss: 1.431950770749234  Accuracy: 0 %
+Iteration: 10000  Loss: 1.431946980644346  Accuracy: 0 %
+Iteration: 11000  Loss: 1.4319697189575695  Accuracy: 0 %
+Iteration: 12000  Loss: 1.4319464288354231  Accuracy: 0 %
+Iteration: 13000  Loss: 1.431952458600646  Accuracy: 0 %
+Iteration: 14000  Loss: 1.4319497491144164  Accuracy: 0 %
+Iteration: 15000  Loss: 1.4319466679161192  Accuracy: 0 %
+Iteration: 16000  Loss: 1.4319476705651906  Accuracy: 0 %
+Iteration: 17000  Loss: 1.4319467541873798  Accuracy: 0 %
+Iteration: 18000  Loss: 1.43195438343763  Accuracy: 0 %
+Iteration: 19000  Loss: 1.4319492496717685  Accuracy: 0 %
+Iteration: 20000  Loss: 1.4319465028962486  Accuracy: 0 %
+Iteration: 21000  Loss: 1.431959362678202  Accuracy: 0 %
+Iteration: 22000  Loss: 1.4319460912414586  Accuracy: 0 %
+Iteration: 23000  Loss: 1.4319498567594249  Accuracy: 0 %
+Iteration: 24000  Loss: 1.4319485201406625  Accuracy: 0 %
+Iteration: 25000  Loss: 1.4319463030675248  Accuracy: 0 %
+Iteration: 26000  Loss: 1.4319469842668338  Accuracy: 0 %
+Iteration: 27000  Loss: 1.431946414429216  Accuracy: 0 %
+Iteration: 28000  Loss: 1.43195125251541  Accuracy: 0 %
+Iteration: 29000  Loss: 1.431948548419646  Accuracy: 0 %
+Iteration: 30000  Loss: 1.4319462585016967  Accuracy: 0 %
